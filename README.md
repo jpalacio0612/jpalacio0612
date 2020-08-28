@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, Welcome to my Github👋
+
+
+#### I am a Colombian Fullstack developer specialized in React, Express, Node and mongoDB. 
+
+Be free to browse my github and give your opinion. 💬
+
+[My Linkedin Click Here](https://www.linkedin.com/in/jonathan-palacio-doncel/)
+
 
 <!--
 **jpalacio0612/jpalacio0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
